@@ -1,1 +1,1 @@
-# AndroidSqlTest
+# AndroidSqlTestActivity
